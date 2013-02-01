@@ -121,7 +121,7 @@ if __name__ == "__main__":
     rainrate['valid_max'] = 400.0
     rainrate['standard_name'] = 'rainfall_rate'
     rainrate['long_name'] = 'rainfall_rate'
-    #rainrate['least_significant_digit'] = 1
+    #rainrate.update({['least_significant_digit']) = 1
     rainrate['units'] = 'mm/hr'
     myradar.fields.update({'rain_rate_A': rainrate})
     line=""

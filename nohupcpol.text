@@ -1,0 +1,285 @@
+sector azimuth_surveillance    
+4131 480
+mean_doppler_velocity
+spectrum_width
+reflectivity_horizontal
+diff_reflectivity
+copol_coeff
+dp_phase_shift
+corrected_mean_doppler_velocity
+done
+populating
+Unfolding
+Starting late
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+['units', 'comment', 'calendar', 'standard_name', 'long_name']
+['units', 'long_name', 'standard_name', 'meters_to_center_of_first_gate', 'meters_between_gates']
+[u'units', u'standard_name']
+['units', 'standard_name']
+Traceback (most recent call last):
+  File "./mcs_anal.py", line 132, in <module>
+    nc_utils.write_radar4(netcdf_obj, myradar)
+  File "/home/sc8/python/pyart/io/nc_utils.py", line 434, in write_radar4
+    moment]['least_significant_digit'])})
+KeyError: 'least_significant_digit'
+sector azimuth_surveillance    
+4136 480
+mean_doppler_velocity
+spectrum_width
+reflectivity_horizontal
+diff_reflectivity
+copol_coeff
+dp_phase_shift
+corrected_mean_doppler_velocity
+done
+populating
+Unfolding
+Starting late
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+['units', 'comment', 'calendar', 'standard_name', 'long_name']
+['units', 'long_name', 'standard_name', 'meters_to_center_of_first_gate', 'meters_between_gates']
+[u'units', u'standard_name']
+['units', 'standard_name']
+Traceback (most recent call last):
+  File "./mcs_anal.py", line 132, in <module>
+    nc_utils.write_radar4(netcdf_obj, myradar)
+  File "/home/sc8/python/pyart/io/nc_utils.py", line 434, in write_radar4
+    moment]['least_significant_digit'])})
+KeyError: 'least_significant_digit'
+sector azimuth_surveillance    
+4131 480
+mean_doppler_velocity
+spectrum_width
+reflectivity_horizontal
+diff_reflectivity
+copol_coeff
+dp_phase_shift
+corrected_mean_doppler_velocity
+done
+populating
+Unfolding
+Starting late
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+['units', 'comment', 'calendar', 'standard_name', 'long_name']
+['units', 'long_name', 'standard_name', 'meters_to_center_of_first_gate', 'meters_between_gates']
+[u'units', u'standard_name']
+['units', 'standard_name']
+Traceback (most recent call last):
+  File "./mcs_anal.py", line 132, in <module>
+    nc_utils.write_radar4(netcdf_obj, myradar)
+  File "/home/sc8/python/pyart/io/nc_utils.py", line 434, in write_radar4
+    moment]['least_significant_digit'])})
+KeyError: 'least_significant_digit'
+sector azimuth_surveillance    
+4131 480
+mean_doppler_velocity
+spectrum_width
+reflectivity_horizontal
+diff_reflectivity
+copol_coeff
+dp_phase_shift
+corrected_mean_doppler_velocity
+done
+populating
+Unfolding
+Starting late
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+['units', 'comment', 'calendar', 'standard_name', 'long_name']
+['units', 'long_name', 'standard_name', 'meters_to_center_of_first_gate', 'meters_between_gates']
+[u'units', u'standard_name']
+['units', 'standard_name']
+Traceback (most recent call last):
+  File "./mcs_anal.py", line 132, in <module>
+    nc_utils.write_radar4(netcdf_obj, myradar)
+  File "/home/sc8/python/pyart/io/nc_utils.py", line 434, in write_radar4
+    moment]['least_significant_digit'])})
+KeyError: 'least_significant_digit'
+sector azimuth_surveillance    
+4131 480
+mean_doppler_velocity
+spectrum_width
+reflectivity_horizontal
+diff_reflectivity
+copol_coeff
+dp_phase_shift
+corrected_mean_doppler_velocity
+done
+populating
+Unfolding
+Starting late
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+Doing  0
+Doing  1
+Doing  2
+Doing  3
+Doing  4
+Doing  5
+Doing  6
+Doing  7
+Doing  8
+Doing  9
+Doing  10
+Doing  11
+Doing  12
+Doing  13
+Doing  14
+Doing  15
+Doing  16
+['units', 'comment', 'calendar', 'standard_name', 'long_name']
+['units', 'long_name', 'standard_name', 'meters_to_center_of_first_gate', 'meters_between_gates']
+[u'units', u'standard_name']
+['units', 'standard_name']
+Traceback (most recent call last):
+  File "./mcs_anal.py", line 132, in <module>
+    nc_utils.write_radar4(netcdf_obj, myradar)
+  File "/home/sc8/python/pyart/io/nc_utils.py", line 434, in write_radar4
+    moment]['least_significant_digit'])})
+KeyError: 'least_significant_digit'
